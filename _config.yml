@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Johann's Tech Blog
 locale:           en_US
 url:              http://localhost:4000
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Johann Barbie
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: 
-  facebook: 
+  web: http://johba.de
+  email: mail@johba.de
+  avatar: bio-photo-2.jpg
+  twitter: johba
   google:
     plus: 
     analytics: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: 
   stackoverflow:
-  linkedin:
+  linkedin: johannbarbie
   instagram: 
   lastfm:
   tumblr:
