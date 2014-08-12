@@ -23,8 +23,8 @@ After some research on the forum I found [this post](https://forums.aws.amazon.c
 
 AWS Auto scaling groups offer an API to update the configuration and pull in the ELB health-check. It can be achieved like this:
 <ol>
-<li>{% markdown %}Download [auto scaling command line tools](http://aws.amazon.com/developertools/2535).{% endmarkdown %}</li>
-<li>{% markdown %}[Install tools](http://docs.aws.amazon.com/AutoScaling/latest/GettingStartedGuide/SetupCLI.html).{% endmarkdown %}</li>
+<li>Download <a href="http://aws.amazon.com/developertools/2535">auto scaling command line tools</a>.<br><br></li>
+<li><a href="http://docs.aws.amazon.com/AutoScaling/latest/GettingStartedGuide/SetupCLI.html">Install tools</a><br><br></li>
 <li>List all auto scaling groups with this command:
     {% highlight bash %}
           as-describe-auto-scaling-groups --region ap-northeast-1
